@@ -1,6 +1,6 @@
 # Railway-announcement-system
 
-Front End : Java swwing
+Front End : Java swwing ;
 Back End : Node Js, MongoDb
                                  
  The Problem which we overcome: Currently railway using traditional meathod for announcement like simply "I am vedant" in this every word like "I", "am", "Vedant" all are recorded seperately and then stored in database and at the time of recording the announcemnet all the recordings are retrived from databsed then arrange them into a queue and then play it serially. 
