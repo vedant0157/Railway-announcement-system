@@ -1,7 +1,7 @@
 # Railway-announcement-system
 
-Front End : Java swwing ;
-Back End : Node Js, MongoDb
+Front End : Java swwing (Railway);
+Back End : Node Js, MongoDb (nodetexttospeech)
                                  
  The Problem which we overcome: Currently railway using traditional meathod for announcement like simply "I am vedant" in this every word like "I", "am", "Vedant" all are recorded seperately and then stored in database and at the time of recording the announcemnet all the recordings are retrived from databsed then arrange them into a queue and then play it serially. 
  Insted of that our software generate the recording on realtime by just taking 3 inputs (Train no, Platform no, time) just by this three input the software announce the statement into three diffrent language (English, Hindi, State Local language).
